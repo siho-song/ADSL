@@ -47,7 +47,7 @@ with open('file.txt', 'a') as file_data:
     file_data.write("Third\n")
 
 ------------------------------------------------------------
-
+dd
 
 
 *출처 : https://twpower.github.io/17-with-usage-in-python
