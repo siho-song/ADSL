@@ -1,0 +1,17 @@
+{
+	"Korean_Dish": {
+		"\uae40\uce58": "1",
+		"\uc0bc\uacb9\uc0b4": "2",
+		"\ub41c\uc7a5\ucc0c\uac1c": "3"
+	},
+	"Japanese_Dish": {
+		"\ucd08\ubc25": "4",
+		"\uc0ac\uc2dc\ubbf8": "5",
+		"\ub098\ubca0": "6"
+	},
+	"Europian_Dish": {
+		"\ud30c\uc2a4\ud0c0": 7,
+		"\uc2a4\ud14c\uc774\ud06c": 8,
+		"\uc2a4\ud29c": 9
+	}
+}
